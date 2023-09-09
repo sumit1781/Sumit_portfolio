@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Your Portfolio</title>
+    <style>
+body {background-color: powderblue;}
+h1   {color: blue;
+font-family: verdana;}
+p    {color: brown;}
+
+</style>
+
+
+
+</head>
+<body>
+    <header>
+        <h1>Sumit Barolia</h1>
+        <nav>
+            <ul>
+                
+            </ul>
+        </nav>
+    </header>
+
+    <section id="about">
+        <h2>About Me</h2>
+        <p>Hi all, my name is Sumit Barolia. I have done my B.Tech in Electrical Engineering.But I am always more interested in Technology and Computer science. Currently I am working in Comviva, which is a telecommunication company, on a role of Engineer Trainee. I am really glad to be a part of this wonderful organisation and currently learning new tools and technologies each and every day, so that I can utilize my skills well. </p>
+    </section>
+
+    <section id="portfolio">
+        <h2>Portfolio</h2>
+        <!-- Add your portfolio projects here -->
+        <div class="portfolio-item">
+            <img src="sumit.jpeg" width="400" height="800" alt="Project 1">
+            <h3>My skills</h3>
+<tr>
+            <p>1. MySQL</p>
+</tr>
+<tr>
+<p>2. Python</p>
+</tr>
+<tr>
+<p>3. Linux</p>
+</tr>
+<tr>
+<p>4. Azure Devops</p>
+</tr>
+<tr>
+<p>5. Manual Testing</p>
+</tr>
+
+
+        </div>
+<html>
+<head>
+<title>Experience</title>
+</head>
+<body>
+
+<table border=4>
+<caption><strong>Experience and Academic Records</strong></caption>
+<tr>
+<th>Sl.No</th>
+<th>Name</th>
+<th>Description</th>
+<th>Organisation/ University/ School</th>
+</tr>
+<tr>
+<td>1</td><td>Trainee Engineer</td><td>Software Tester</td><td>Comviva </td>
+</tr>
+<td>2</td><td>B.Tech in Electrical Engineering</td><td>8.5 CGPA</td><td>JECRC Foundation</td>
+</tr>
+<tr>
+<td>3</td><td>Sr Secondary</td><td>78%</td><td>Sarvodaya Sr Sec School Kota</td>
+</tr>
+<tr>
+<td>4</td><td>Secondary School</td><td>10 CGPA</td><td>DAV Public School Suratgarh</td>
+</tr>
+
+<tr>
+
+
+
+</table>
+
+</body>
+</html>
+
+<tr>
+<p> </p>
+</tr>
+<tr>
+<p> </p>
+</tr>
+        
+            <h3>My strengths</h3>
+<div class="portfolio-item">
+            <img src="strengths.jpg" alt="Project 2">
+            <p>1. Dedication</p>
+<tr>
+<p>2. Strong work ethic</p>
+</tr>
+<tr>
+<p>3. Leadership</p>
+</tr>
+<tr>
+<p>4. Self-motivated</p>
+</tr>
+<tr>
+<p>5. Active listening</p>
+</tr>
+        </div>
+        <!-- Add more portfolio items as needed -->
+    </section>
+<h2>Future Goals</h2>
+        <p>In 5 years , I want to be on an influential technical position in a reputed organisation where I can direct and guide others using my skillset and achieve new records and heights.</p>
+
+    <section id="contact">
+        <h2>Contact Me</h2>
+        <p>Email- feb1220@gmail.com</p>
+    </section>
+
+    <footer>
+        <p>&copy; 2023 Sumit Barolia</p>
+    </footer>
+
+</body>
+</html>
+
